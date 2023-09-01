@@ -88,5 +88,5 @@ With the help of Encoder, we move the Validation data images from the 784 dimens
 
 
 #### Epoch 150
-![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/4d9db7ac-8cd3-454b-a5c4-7560607ea94b)
+![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/4d9db7ac-8cd3-454b-a5c4-7560607ea94b=300*300)
 
