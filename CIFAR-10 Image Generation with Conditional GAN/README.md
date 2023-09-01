@@ -48,6 +48,33 @@ In this project, we harness the capabilities of Conditional Generative Adversari
 ##### Epoch 1
 ![1](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/ed11bbb3-c961-4f2f-a132-6cd4a46f4304)
 
+##### Epoch 11
+![11](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/91c83945-f775-45df-860a-2a7180cf5633)
+
+##### Epoch 21
+![21](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/a4d2efa1-6de9-4363-8c7a-b6139c06198a)
+
+##### Epoch 31
+![31](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/059a718b-dd99-42f1-b2fe-2260ed05e7b0)
+
+##### Epoch 41
+![41](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/e8821ad5-f88f-4be0-bd46-2f53abb11aaf)
+
+##### Epoch 51
+![51](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/3aa63a6d-6614-4cd3-b223-4e91c8ffa9ff)
+
+##### Epoch 61
+![61](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/bf7ffbbc-3989-442e-ad28-fad8fe8512a4)
+
+##### Epoch 71
+![71](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/aaec3f5b-85a7-4ce0-848e-b91f6bcfef5a)
+
+##### Epoch 81
+![81](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/d1ae5807-54d8-4b12-97aa-c7430964ff1f)
+
+##### Epoch 91
+![91](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/602124f3-43f7-410c-a2c4-726a6b0c13e6)
+
 
 #### Training Loss
 ![loss](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/2e5c30bf-8457-4ede-bbc9-656899dec76c)
