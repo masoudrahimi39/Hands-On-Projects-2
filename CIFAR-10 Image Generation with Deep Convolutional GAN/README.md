@@ -32,7 +32,7 @@ In this section, we showcase the generated CIFAR-10 images at different training
 
 #### Epoch 10
 
-![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/7dc885e3-0322-491e-89f7-2124645747eb)
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/7dc885e3-0322-491e-89f7-2124645747eb" alt="Generated Images at Epoch 1" width="200"/>
 
 #### Epoch 20
 ![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/ed8046b5-a32c-47b7-aff7-00c64e2eb41a)
