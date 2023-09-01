@@ -83,10 +83,18 @@ With the help of Encoder, we move the Validation data images from the 784 dimens
 #### Epoch 20
 ![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/430b83cd-a78f-4b4a-a80a-a26fb1202477)
 
+#### Epoch 20
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/430b83cd-a78f-4b4a-a80a-a26fb1202477" alt="Epoch 20" width="300" height="300">
+
+
 #### Epoch 80 
 ![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/fb8c6cb6-972a-4ba2-ad32-f464bc0e29c3)
 
 
+#### Epoch 80
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/fb8c6cb6-972a-4ba2-ad32-f464bc0e29c3" alt="Epoch 80" width="300" height="300">
+
+
 #### Epoch 150
-![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/4d9db7ac-8cd3-454b-a5c4-7560607ea94b=300*300)
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/4d9db7ac-8cd3-454b-a5c4-7560607ea94b" alt="Epoch 150" width="300" height="300">
 
