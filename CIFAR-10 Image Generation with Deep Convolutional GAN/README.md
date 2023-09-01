@@ -35,6 +35,20 @@ In this section, we showcase the generated CIFAR-10 images at different training
 <img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/7dc885e3-0322-491e-89f7-2124645747eb" alt="Generated Images at Epoch 1" width="200"/>
 
 #### Epoch 20
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/ed8046b5-a32c-47b7-aff7-00c64e2eb41a" alt="Generated Image at Epoch 20" width="200"/>
+
+#### Epoch 50
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/8b5dc1b2-ee05-4967-b802-47730b42b69e" alt="Generated Image at Epoch 50" width="200"/>
+
+#### Epoch 100
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/f9243d30-12b3-4e55-b46d-90395c83152e" alt="Generated Image at Epoch 100" width="200"/>
+
+#### Epoch 200
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/758ec81d-1032-4ee0-83d3-cc94cfa35fea" alt="Generated Image at Epoch 200" width="200"/>
+
+
+
+#### Epoch 20
 ![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/ed8046b5-a32c-47b7-aff7-00c64e2eb41a)
 
 
