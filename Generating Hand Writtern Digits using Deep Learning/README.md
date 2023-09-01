@@ -55,7 +55,7 @@ The following figures depict the generated images and loss values in epochs 20, 
 
 
 #### Epoch 20
-<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/2915bcff-26f4-418b-b143-cd60a655b78e" alt="Epoch 20" width="300" height="300">
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/0b71561f-2ee4-4643-a36f-a031f6e284e0" alt="Epoch 20" width="300" height="300">
 <img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/542ce405-d622-46b3-bf84-7c9140d87ee0" alt="Epoch 20" width="300" height="300">
 
 #### Epoch 50
