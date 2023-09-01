@@ -29,6 +29,27 @@ This reshaping process effectively adds the class label, which is now the same s
 
 In this project, we harness the capabilities of Conditional Generative Adversarial Networks (cGANs) to generate high-quality images using the CIFAR-10 dataset. Our exploration delves into the training process, evaluation metrics, and practical utilization of the trained model for image generation.
 
+#### Complete Model
 
+![c](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/4534ba5d-c028-40cb-9c3d-5cf256dcc513)
+
+
+#### Generator Model
+![a](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/cd30fa98-c22d-4739-9b0f-42e772f01b69)
+
+#### Discriminator Model
+![b](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/19a15ea2-fb4a-4830-8108-463366f470c8)
+
+#### Original Images
+![orginal](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/8e7fba10-15ab-432e-9c1d-72b2e1a7493e)
+
+
+#### Evolution of Generated Images in Different Epochs
+##### Epoch 1
+![1](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/ed11bbb3-c961-4f2f-a132-6cd4a46f4304)
+
+
+#### Training Loss
+![loss](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/2e5c30bf-8457-4ede-bbc9-656899dec76c)
 
 
