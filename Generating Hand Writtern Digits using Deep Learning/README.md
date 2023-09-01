@@ -2,7 +2,7 @@
 
 Welcome to our project focused on generating hand-written digits using Variational Autoencoder networks, often referred to as VAEs. VAEs are powerful generative models used for data generation, consisting of two main components: the encoder and the decoder.
 
-Note: The readme is translated my persian report into English by Google Translate and revised by ChatGPTf
+Note: The readme is translated from my Persian report into English by Google Translate and revised by ChatGPT.
 ## Project Description
 
 The primary distinction between Variational Autoencoder networks and regular autoencoders lies in the encoder section. Unlike traditional autoencoders, VAEs generate two vectors in the encoder: one containing means and another containing standard deviations. In the decoder section, after sampling these average and standard deviation vectors, the output is produced. Unlike autoencoders, VAEs do not aim to reproduce input images exactly. Instead, they generate new images, performing statistical manipulations in such a way that the generated patterns are different from the original patterns in the encoding part, yet belong to the same category.
@@ -16,7 +16,7 @@ The key to VAE's power lies in the central part of the autoencoder, where the en
 The process of data generation and the advantages and disadvantages of GANs (Generative Adversarial Networks) and VAEs compared to each other differ significantly:
 
 ### GANs
-- GANs are based on the conflict between Discriminator and Generator.
+- GANs are based on the conflict between the Discriminator and Generator.
 - The Discriminator learns to distinguish between real and fake data, acting as a binary classifier.
 - The Generator learns to generate samples from independent and identically distributed (iid) noise.
 - As training progresses, the Generator creates more convincing fake samples, making its productions closer to reality.
