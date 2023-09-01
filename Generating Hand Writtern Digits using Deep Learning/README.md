@@ -51,12 +51,9 @@ For each model used to generate data, we showcase results for 5 different IPACs.
 
 ### Train and validation
 
-The following figures depict the generated images and loss values in epochs 20, 50, 80, 100, and 150:
+The following figures depict the generated images and loss values in epochs 50, 80, 100, and 150:
 
 
-#### Epoch 20
-<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/0b71561f-2ee4-4643-a36f-a031f6e284e0" alt="Epoch 20" width="300" height="300">
-<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/542ce405-d622-46b3-bf84-7c9140d87ee0" alt="Epoch 20" width="300" height="300">
 
 #### Epoch 50
 <img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/de49312f-b1f4-479c-b0b0-9d1283a4f21d" alt="Epoch 50" width="300" height="300">
