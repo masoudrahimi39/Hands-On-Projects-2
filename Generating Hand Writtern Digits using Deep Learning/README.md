@@ -56,7 +56,7 @@ The following figures depict the generated images and loss values in epochs 20, 
 
 #### Epoch 20
 <img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/2915bcff-26f4-418b-b143-cd60a655b78e" alt="Epoch 20" width="300" height="300">
-<img src="[https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/542ce405-d622-46b3-bf84-7c9140d87ee0](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/542ce405-d622-46b3-bf84-7c9140d87ee0)" alt="Epoch 20" width="300" height="300">
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/542ce405-d622-46b3-bf84-7c9140d87ee0" alt="Epoch 20" width="300" height="300">
 
 #### Epoch 50
 <img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/de49312f-b1f4-479c-b0b0-9d1283a4f21d" alt="Epoch 50" width="300" height="300">
@@ -68,14 +68,14 @@ The following figures depict the generated images and loss values in epochs 20, 
 <img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/3e9731d0-9926-4ced-a749-0d931787d4c0" alt="Epoch 80" width="300" height="300">
 
 #### Epoch 100
-<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/0c75e55d-6ec2-42ad-8ee8-0128fe1ab7f1" alt="Epoch 100"
-<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/823e8c78-fa8b-4b6f-812e-1d1dba3786f2" alt="Epoch 100"
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/0c75e55d-6ec2-42ad-8ee8-0128fe1ab7f1" alt="Epoch 100" width="300" height="300">
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/823e8c78-fa8b-4b6f-812e-1d1dba3786f2" alt="Epoch 100" width="300" height="300">
 
 
 
 #### Epoch 150
-<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/75f48bec-b038-4118-aa41-3749a4978189" alt="Epoch 100"
-<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/b3321f4b-cecf-4412-a64d-a479e308e60e" alt="Epoch 100"
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/75f48bec-b038-4118-aa41-3749a4978189" alt="Epoch 150"  width="300" height="300">
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/b3321f4b-cecf-4412-a64d-a479e308e60e" alt="Epoch 150"  width="300" height="300">
 
 
 ## Clustering Validation data in 2D space
