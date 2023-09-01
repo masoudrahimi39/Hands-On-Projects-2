@@ -26,3 +26,27 @@ In InfoGAN, control variables and noise are provided as input to the generator. 
 
 InfoGAN deals with categorical and continuous variables, each with different data distributions affecting mutual information loss calculations. The mutual loss is calculated and summed across all control variables based on variable types, ensuring a versatile approach to feature control.
 
+## Generated Images by InfoGAN
+
+In this section, we showcase the generated CIFAR-10 images at different training epochs to illustrate the progression of image quality and controlled feature manipulation by InfoGAN.
+
+#### Epoch 10
+
+![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/7dc885e3-0322-491e-89f7-2124645747eb)
+
+#### Epoch 20
+![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/ed8046b5-a32c-47b7-aff7-00c64e2eb41a)
+
+
+#### Epoch 50
+![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/8b5dc1b2-ee05-4967-b802-47730b42b69e)
+
+
+#### Epoch 100
+
+![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/f9243d30-12b3-4e55-b46d-90395c83152e)
+
+### Epoch 200
+
+![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/758ec81d-1032-4ee0-83d3-cc94cfa35fea)
+
