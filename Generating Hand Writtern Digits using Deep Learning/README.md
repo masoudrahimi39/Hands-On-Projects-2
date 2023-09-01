@@ -54,25 +54,19 @@ For each model used to generate data, we showcase results for 5 different IPACs.
 The following figures depict the generated images and loss values in epochs 20, 50, 80, 100, and 150:
 
 #### Epoch 20
-![image1](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/2915bcff-26f4-418b-b143-cd60a655b78e)
-![image2](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/542ce405-d622-46b3-bf84-7c9140d87ee0)
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/2915bcff-26f4-418b-b143-cd60a655b78e" alt="Epoch 20" width="300" height="300">
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/542ce405-d622-46b3-bf84-7c9140d87ee0" alt="Epoch 20" width="300" height="300">
 
 #### Epoch 50
-![image3](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/de49312f-b1f4-479c-b0b0-9d1283a4f21d)
-![image4](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/10620aca-cfb3-4a44-8ed7-511321b76bed)
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/de49312f-b1f4-479c-b0b0-9d1283a4f21d" alt="Epoch 50" width="300" height="300">
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/10620aca-cfb3-4a44-8ed7-511321b76bed" alt="Epoch 50" width="300" height="300">
 
 #### Epoch 80
-![image5](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/b493c96f-ac3e-4724-b2e6-d10cf370717a)
-![image6](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/3e9731d0-9926-4ced-a749-0d931787d4c0)
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/b493c96f-ac3e-4724-b2e6-d10cf370717a" alt="Epoch 80" width="300" height="300">
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/3e9731d0-9926-4ced-a749-0d931787d4c0" alt="Epoch 80" width="300" height="300">
 
 #### Epoch 100
-![image7](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/0c75e55d-6ec2-42ad-8ee8-0128fe1ab7f1)
-![image8](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/823e8c78-fa8b-4b6f-812e-1d1dba3786f2)
-
-#### Epoch 150
-![image9](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/75f48bec-b038-4118-aa41-3749a4978189)
-![image10](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/b3321f4b-cecf-4412-a64d-a479e308e60e)
-
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/0c75e55d-6ec2-42ad-8ee8-0128fe1ab7f1" alt="Epoch 100"
 
 
 
