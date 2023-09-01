@@ -39,11 +39,11 @@ In this section, we implement a VAE model using the MNIST dataset. We provide th
 
 For each model used to generate data, we showcase results for 5 different IPACs. The network structure is visualized in the figures below:
 
-- Encoder Structure
+#### Encoder Structure
+  
 ![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/020d7229-d89f-4d60-99ab-e5abfc4dcc6c)
 
-
-- Decoder Structure
+#### Decoder Structure
 
   
 ![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/f9f56d8d-8cef-498c-a5c9-11ee3902f6d8)
