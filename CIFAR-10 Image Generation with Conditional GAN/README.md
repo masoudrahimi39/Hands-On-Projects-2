@@ -1,6 +1,6 @@
 # CIFAR-10 Image Generation with Conditional GAN (cGAN)
 
-In this project, we explore the fascinating world of Conditional Generative Adversarial Networks (cGANs) and their application to image generation using the CIFAR-10 dataset. cGANs enhance traditional GANs by leveraging class labels to generate data with precision and control. This approach leads to improved network performance, resulting in more stable training, faster convergence, and the creation of high-quality images.
+In this project, we explore the world of Conditional Generative Adversarial Networks (cGANs) and their application to image generation using the CIFAR-10 dataset. cGANs enhance traditional GANs by leveraging class labels to generate data. This approach leads to improved network performance, resulting in more stable training, faster convergence, and the creation of high-quality images.
 
 ## About Conditional GAN
 
@@ -9,7 +9,6 @@ Conditional Generative Adversarial Networks (cGANs) share the fundamental archit
 ### cGAN Architecture
 
 The cGAN architecture consists of two key components: the **Generator** and the **Discriminator**.
-
 
 
 #### Generator
