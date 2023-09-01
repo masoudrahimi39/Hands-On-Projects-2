@@ -34,4 +34,22 @@ These architectural innovations are essential to the success of DCGANs in genera
 In this section, we describe the implementation of the DCGAN model using the CIFAR10 dataset. We utilize the CIFAR10 dataset to generate images, showcasing the capabilities of our DCGAN architecture.
 
 #### Epoch 20 
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/f4fca2d4-b3aa-4638-ad20-606097085044" alt="Epoch 20" width="300" height="300">
+
+#### Epoch 40
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/74d27548-74db-4a06-ade6-0dbcbe898db6" alt="Epoch 40" width="300" height="300">
+
+#### Epoch 60
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/56b6ed77-988b-493c-8f5d-9b52ccd7c57b" alt="Epoch 60" width="300" height="300">
+
+
+#### Epoch 80
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/a9bbb5ee-fe0a-49f3-8105-bea96a5b55f7" alt="Epoch 80" width="300" height="300">
+
+#### Epoch 100
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/1093e28c-1335-4977-b6b0-42988d18da63" alt="Epoch 100" width="300" height="300">
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/7f2004bb-86fc-41f0-b802-1555e0ce9c25" alt="Epoch 100" width="300" height="300">
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/d93f90f5-8892-4f7e-96da-7c6e5f8112a1" alt="Epoch 100" width="300" height="300">
+
+
 
