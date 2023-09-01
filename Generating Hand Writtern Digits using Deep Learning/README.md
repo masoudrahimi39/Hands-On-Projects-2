@@ -44,6 +44,8 @@ For each model used to generate data, we showcase results for 5 different IPACs.
 
 
 - Decoder Structure
+
+  
 ![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/f9f56d8d-8cef-498c-a5c9-11ee3902f6d8)
 
 
