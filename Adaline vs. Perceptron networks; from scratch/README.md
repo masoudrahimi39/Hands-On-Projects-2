@@ -32,7 +32,9 @@ Given this class imbalance, we expect Adaline to perform less effectively than P
 
 As the initial weights of Adaline are randomly selected, the dividing line produced by the network may vary each time the program is run, resulting in different classification outcomes. Below are examples of linear classifiers produced by Adaline:
 ![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/57097e0d-8239-42b7-8c2d-bd463ad9544a)
-Run the classifiers again and the result is:
+
+Run the classifiers again, and the result is:
+
 ![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/f44d86e8-e3fa-417f-ad91-13c744c34adc)
 
 ### Effect of Learning Rate in Imbalanced Dataset
