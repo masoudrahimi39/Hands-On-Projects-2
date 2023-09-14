@@ -7,3 +7,9 @@ Consider the following set:
 ![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/c4b5fe84-2f71-4d3c-a778-a025387af01f)
 
 Design a Madline network that separates these points from one another using appropriate lines.
+
+
+Results:
+It can classify all points except two.
+
+![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/90285db9-1d07-40b1-9612-26592da56893)
