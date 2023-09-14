@@ -5,7 +5,8 @@ The goal in this exercise is to create a classifier for the classification of th
 Normally, 60 thousand images are used as the training data set and 10 thousand images are used as the test data set. You download this data set and display the first 10 images along with the name of the object and then divide the data into three parts: training 2, test 3 and evaluation 4.
 You can also download the dataset using the Keras library.
 
-Assumptions of the problem:
-• Consider the number of hidden layers equal to 2.
-• Use the Stochastic mini batch based method d.
-• Choose other hyperparameters such as error function, learning rate, etc. for this purpose, you can use Grid Search or trial and error. Bring the selected parameters in the report.
+#### Assumptions of the problem:
+
+- Consider the number of hidden layers equal to 2.
+- Use the Stochastic mini batch based method d.
+- Choose other hyperparameters such as error function, learning rate, etc. for this purpose, you can use Grid Search or trial and error. Bring the selected parameters in the report.
