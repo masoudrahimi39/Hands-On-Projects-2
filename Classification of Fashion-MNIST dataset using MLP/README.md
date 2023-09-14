@@ -1,7 +1,7 @@
 
 The goal in this exercise is to create a classifier for the classification of the Fashion-MNIST dataset using MLP networks. This data set (you can see an example of it in the image below) contains 70 thousand black and white images, which are grouped into 10 classes.
 
-<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/f2347bc2-d097-47b8-8f73-25d7c42fef00" width="200">
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/f2347bc2-d097-47b8-8f73-25d7c42fef00" width="400">
 
 
 Normally, 60 thousand images are used as the training data set and 10 thousand images are used as the test data set. You download this data set and display the first 10 images along with the name of the object and then divide the data into three parts: training 2, test 3 and evaluation 4.
