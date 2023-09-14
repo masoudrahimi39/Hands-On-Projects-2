@@ -21,6 +21,7 @@ Compare the results of the two parts. (consider maxt and other parameters to be 
 
 2) 
 <img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/b711ae13-634a-4814-b7b2-fc9620735441" width="300">
+
 3)
 <img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/3f073375-3863-4e18-a816-a7a99223b21a" width="300">
 
