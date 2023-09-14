@@ -11,5 +11,11 @@ Code with +1 and white as -1.)
 ![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/e6a2c6d8-4746-4097-a63f-b636b3b18c06)
 
 2)
-![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/54274275-5b05-4461-9a6c-efeb54cb8e77)
-![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/1f2c6fb4-4fe9-46c0-a875-afd229dd5051)
+### Aircraft recovery from disturbed pattern
+![image]()
+
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/54274275-5b05-4461-9a6c-efeb54cb8e77" width="200">
+
+### Tank recovery from disturbed pattern
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/1f2c6fb4-4fe9-46c0-a875-afd229dd5051" width="200">
+
