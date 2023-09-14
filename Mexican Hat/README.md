@@ -8,6 +8,7 @@ Using the Mexican Hat network, find the unit that has the maximum value from the
 2) Consider R1=1 and R2=3.
 
 Attention:
+
 • Draw the index of the array members and the value of the output signal every time it repeats, and finally
 Compare the results of the two parts. (consider maxt and other parameters to be appropriate values)
 • For both parts, consider the activation function as follows:
