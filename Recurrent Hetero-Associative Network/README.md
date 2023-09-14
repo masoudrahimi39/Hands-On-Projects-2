@@ -8,7 +8,7 @@ Code with +1 and white as -1.)
 
 ## Results
 1)
-![image](https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/e6a2c6d8-4746-4097-a63f-b636b3b18c06)
+<img src="https://github.com/masoudrahimi39/Machine-Learning-Hands-On-Projects/assets/65596290/e6a2c6d8-4746-4097-a63f-b636b3b18c06" width="400">
 
 2)
 ### Aircraft recovery from disturbed pattern
